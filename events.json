@@ -1,11 +1,1 @@
-{
-  "events": [
-    {
-      "id": "e1",
-      "title": "A dummy event",
-      "date": "2023-02-22",
-      "image": "https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg",
-      "description": "Join this amazing event and connect with fellow developers."
-    }
-  ]
-}
+{"events":[{"title":"another amazing event","image":"https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-neuschwanstein-castle-bavaria.jpg","date":"2024-09-03","description":"another amazing event","id":"d1f74fb8-62b1-4e33-a694-c975042438cb"},{"title":"Test","image":"https://www.planetware.com/wpimages/2020/01/germany-in-pictures-beautiful-places-to-photograph-black-forest.jpg","date":"2024-08-29","description":"Test","id":"7538db5f-15ff-435f-8396-4b291e42b7cc"},{"title":"A new Event","image":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.planetware.com%2Fpictures%2Fgermany-d.htm&psig=AOvVaw12iZNpby2cHLc6DdU25nKQ&ust=1723384331720000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDq5YvJ6ocDFQAAAAAdAAAAABAE","date":"2024-08-30","description":"An awesome event","id":"9dd6cfc9-cdb1-4714-98b3-6f47b91fa6a1"},{"id":"e1","title":"A dummy event","date":"2023-02-22","image":"https://blog.hubspot.de/hubfs/Germany/Blog_images/Optimize_Marketing%20Events%20DACH%202021.jpg","description":"Join this amazing event and connect with fellow developers."}]}
